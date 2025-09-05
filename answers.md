@@ -68,4 +68,15 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-Answer 10: 
+Answer 10: No - the changes were not reflected
+
+Answer 11: It fails, saying that it was rejected and hinting the online repo had changes not seen here
+
+Answer 12: Yes, I was able to see the updated README.md file
+
+Answer 13: 
+.
+..
+.git
+.gitignore
+README.md
